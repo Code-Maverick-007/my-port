@@ -1,17 +1,5 @@
 {
-  "node": {
-    "40f414e8c38a673aab2988dbd71551fa801b9a1a53": {
-      "workers": {
-        "app/page": {
-          "moduleId": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Fomkarshewale%2FDesktop%2Fomkar%20port%2Fapp%2Factions%2Fcontact.ts%22%2C%5B%7B%22id%22%3A%2240f414e8c38a673aab2988dbd71551fa801b9a1a53%22%2C%22exportedName%22%3A%22sendEmail%22%7D%5D%5D%5D&__client_imported__=true!",
-          "async": false
-        }
-      },
-      "layer": {
-        "app/page": "action-browser"
-      }
-    }
-  },
+  "node": {},
   "edge": {},
   "encryptionKey": "gsp5RyrexjQAaQTmP9SthEoaewaX6l6U1OrqQKSsaGQ="
 }

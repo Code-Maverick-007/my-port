@@ -11,7 +11,7 @@ const jetbrainsMono = JetBrains_Mono({
 })
 
 export const metadata: Metadata = {
-  title: "Arpit Sarang | CodeMaverick-143",
+  title: "Omkar Shewale | Code-Maverick-007",
   description: "Full-Stack Developer | AI/ML Enthusiast",
   generator: 'v0.dev'
 }

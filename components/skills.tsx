@@ -86,24 +86,14 @@ export default function Skills() {
       level: 80,
       icon: <SiMongodb className="w-4 h-4" />
     },
-    { 
-      name: "MySQL", 
-      color: "#00758F", 
-      level: 75,
-      icon: <SiMysql className="w-4 h-4" />
-    },
+   
     { 
       name: "GitHub", 
       color: "#6e5494", 
       level: 85,
       icon: <SiGit className="w-4 h-4" />
     },
-    { 
-      name: "Linux", 
-      color: "#ffcc00", 
-      level: 70,
-      icon: <SiLinux className="w-4 h-4" />
-    },
+   
     { 
       name: "Vite", 
       color: "#646CFF", 
