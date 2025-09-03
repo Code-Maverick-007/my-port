@@ -121,9 +121,10 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📫 Contact
 
-- GitHub: [id](CodeMaverick-143)
-- Email: [Email](arpitsarang2020@gmail.com)
+- GitHub: [id](Code-Maverick-007)
+- Email: [Email](omkarshewale205@gmail.com)
 
 ---
 
-Made with ❤️ by Arpit Sarang
+Made with ❤️ by Omkar
+
