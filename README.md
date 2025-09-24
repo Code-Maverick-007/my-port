@@ -121,8 +121,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📫 Contact
 
-- GitHub: [id](Code-Maverick-007)
-- Email: [Email](omkarshewale205@gmail.com)
+- GitHub: (Code-Maverick-007)
+- Email: (omkarshewale205@gmail.com)
 
 ---
 
